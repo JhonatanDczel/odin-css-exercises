@@ -1,0 +1,19 @@
+#number-2 {
+  color: #9abcf5;
+  font-size: 36px;
+}
+
+#number-4{
+  font-size: 24px;
+  background-color: #c2f5b8;
+  font-weight: bold;
+}
+
+.odd {
+  font-family: "Verdana", "DejaVu Sans", "Nerd Font", sans-serif;
+  background-color: #f5a6a6;
+}
+
+.odd.god {
+  font-size: 24px;
+}
